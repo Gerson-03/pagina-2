@@ -1,0 +1,170 @@
+body{
+    background-image: url(imagenes/imagen\ de\ fondo.jpg);
+}
+.caja1{
+    background-color:palegreen;
+    width: 200px;
+    height: 1440px;
+    border-color: blue;
+    float: right;
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    padding-left: 1px;
+   padding-bottom: 5px;
+   text-align: center;
+   
+   color: black;
+}
+
+.caja2{
+    background-color: white;
+    width: 720px;
+    height: 350px;
+    border-color: blue;
+    border-radius: 10px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.cajainterna2{
+    background-color: palegreen;
+    width: 685px;
+    height: 270px;
+    padding-left: 5px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    margin: 10px;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caja3{
+    background-color:white;
+    width: 720px;
+    height: 350px;
+    border-color: blue;
+    border-radius: 10px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+.cajainterna3{
+    background-color: palegreen;
+    width: 685px;
+    height: 270px;
+    padding-left: 5px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    margin: 10px;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caja4{
+    background-color:white;
+    width: 720px;
+    height: 350px;
+    border-color: blue;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.cajainterna4{
+    background-color: palegreen;
+    width: 685px;
+    height: 270px;
+    padding-left: 5px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    margin: 10px;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caja5{
+    background-color: white;
+    width: 720px;
+    height: 350px;
+    border-color: blue;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    
+}
+.cajainterna5{
+    background-color: palegreen;
+    width: 685px;
+    height: 270px;
+    padding-left: 5px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    margin: 10px;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: fantasy;
+    text-align: center;
+}
+.cajita a{
+    background-color:goldenrod ;
+    width: 1000px;
+    height: 30px;
+    border-color: blue;
+    font-family: cursive;
+    border-radius: 5px:
+    border-style: solid;
+    border-color: black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+   word-wrap: 5px;
+}
+#img2{
+    padding-top: 1px;
+    width: 320px;
+    height: 230px;
+    float:right ;
+    margin: 20px;
+   align-items: center;
+
+}
+#img3{
+    padding-top: -5px;
+    width: 320px;
+    height: 230px;
+    float:left ;
+    margin: 20px;
+
+}
+#img4{
+    padding-top: -5px;
+    width: 320px;
+    height: 230px;
+    float:right ;
+    margin: 20px;
+
+}
+#img5{
+    padding-top: -5px;
+    width: 320px;
+    height: 230px;
+    float:left ;
+    margin: 20px;
+
+}
+.contenedor{
+    background-color: lightblue;
+    height: 1600px;
+    max-width: 1000px;
+}
